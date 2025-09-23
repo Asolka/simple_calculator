@@ -18,7 +18,8 @@ It’s a basic calculator built for practice, but I’m pretty happy with the re
    Open index.html in your browser.
 2. Open `index.html` in your browser.
 
-## 🎯 Goals This project helped me:
+## 🎯 Goals
+this project helped me:
 - Revisit the basics of **HTML, CSS, JavaScript**
 - Get comfortable again with **JavaScript logic**
 - Practice building a small but complete project
